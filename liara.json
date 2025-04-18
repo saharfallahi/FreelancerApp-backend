@@ -1,5 +1,5 @@
 {
   "platform": "node",
-  "app": "finalapp-api",
-  "port": 3000
+  "app": "freelanceproject-api",
+  "port": 5000
 }
